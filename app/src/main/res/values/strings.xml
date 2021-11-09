@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Быстрый подбор МФО</string>
+    <!--notification!-->
+    <string name="default_channel_id">0</string>
+    <string name="default_channel_name">Default channel</string>
+    <string name="default_channel_description">Уведомления</string>
+    <string name="default_notification_id">0</string>
+    <string name="default_notification_name">webview</string>
+    <string name="default_topic">default</string>
+    <!--webview erore!-->
+    <string name="web_view_error_others">Страница не доступна<br/> Возможно, нет соединения с интернетом</string>
+    <string name="web_view_error_no_internet">Страница не доступна<br/> Проверьте соединение с интернетом</string>
+    <!--facebook!-->
+    <string name="facebook_app_id">3010556705734769</string>
+    <string name="fb_login_protocol_scheme">fb3010556705734769</string>
+</resources>
